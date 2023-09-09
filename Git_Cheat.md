@@ -113,13 +113,5 @@ The following platforms can be used to host your repositories.
 
 ### Graphical User Interface (GUI)
 
-Is the command-line interface not for you? Try one of the following clients.
-
-| Clients                                      | Operational System | Price      |
-| -------------------------------------------- | ------------------ | ---------- |
-| [Github](https://desktop.github.com)         | Mac and Windows    | Free       |
-| [Source Tree](https://www.sourcetreeapp.com) | Mac and Windows    | Free       |
-| [Tower](https://www.git-tower.com)           | MacOS and Windows  | $69 to $99 |
-
 ### Resource
 -   [git-basics-cheatsheet](https://github.com/0nn0/git-basics-cheatsheet/blob/master/README.markdown#english-version)
