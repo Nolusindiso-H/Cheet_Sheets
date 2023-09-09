@@ -16,17 +16,17 @@
 
 #### how to change from https: to git@
 
-- git remote set-url origin git@github.com:*Name/repo name*
+- **git** remote set-url origin git@github.com:*Name/repo name*
 
 
 
 ### How to initiate a commit on Git ###
 
-1. git init
-2. git status
-3. git add . (or git add " name of the file needed to be added")
-4. git commit -m (whatever commit message) ** or **  git commit - "message 1" -m "extended instructions"
-5. git status
+1. **git** init
+2. **git** status
+3. **git** add . (or git add " name of the file needed to be added")
+4. **git** commit -m (whatever commit message) **or**  git commit - "message 1" -m "extended instructions"
+5. **git** status
 
 ### Things to note ###
 
@@ -61,13 +61,13 @@
 
 ### Git branching
 
-- git checkout -b (branchname) *creates a new branch*
+- **git** checkout -b (branchname) *creates a new branch*
 
-- git checkout (branchname) *allows you to switch between branches*
+- **git** checkout (branchname) *allows you to switch between branches*
 
-- git diff (branch name) *can show you changes made on your code from a different branch*
+- **git** diff (branch name) *can show you changes made on your code from a different branch*
 
-- git branch -d (branch name) *deletes a branch after you are done working on it*
+- **git** branch -d (branch name) *deletes a branch after you are done working on it*
 
-- git merge (branch name) *allows you to merge a branch to the main branch*
+- **git** merge (branch name) *allows you to merge a branch to the main branch*
  
