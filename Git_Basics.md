@@ -12,7 +12,7 @@
 4. **commit** (saves changes)
 5. **push** (sends your code to a remote repo on github)
 
-- **git remote -v** checks your url so you can see which branch you are working with remotely.
+- **git** remote -v checks your url so you can see which branch you are working with remotely.
 
 #### how to change from https: to git@
 
@@ -28,25 +28,25 @@
 
 ### Things to note ###
 
-<span style="color:green"> Green</span> indicates code that has been newly added.
+<u> Green</u> indicates code that has been newly added.
 
-<span style="color:red">Red</span> indicates code that has been deleted since the last commit.
+<u>Red</u> indicates code that has been deleted since the last commit.
 
-<span style="color:white">White</span> indicates code that has not been touched/changed.
+<u>White</u> indicates code that has not been touched/changed.
 
 ### How to push and pull 
 
 **pull**
 
-1. git clone (repository link found on github)
+1. **git** clone (repository link found on github)
 
 **push**
 
-1. git push -u (repository link found on github) *do this for the initial push request*
+1. **git** push -u (repository link found on github) *do this for the initial push request*
 
 >> otherwise
 
-- git push *should be enough*
+- **git** push *should be enough*
 
 
 
