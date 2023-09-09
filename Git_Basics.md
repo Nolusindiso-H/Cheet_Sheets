@@ -69,3 +69,17 @@
 
 - **git** merge (branch name) *allows you to merge a branch to the main branch*
  
+
+### Undoing on Git
+
+- **git** reset (file name) *unstages recent adds*
+
+- **git** reset HEAD~1 *uncommits recent changes*
+
+>> #### To reset multiple changes
+
+1. **git** log *to check all logs and see where to go back*
+
+2. **git** reset (+ # of the commit you want to go back to)
+
+- **git** reset --hard (+ # of a specific commit) *deletes all changes made since that specific commit*
